@@ -11,9 +11,9 @@ title                    : "Nature"
 title_separator          : "-"
 name                     : &name "Nature"
 description              : &description "personal description"
-url                      : https://inatrue.github.io
+url                      : https://tachichan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "inatrue/inatrue.github.io"
+repository               : "TachiChan/tachichan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Natrue"
+  name             : "Nature"
   avatar           : "profile.png"
   bio              : "Le Grand Bleu"
   location         : "Nature"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iNatrue"
+  github           : "TachiChan"
   google_plus      :
   keybase          :
   instagram        :
