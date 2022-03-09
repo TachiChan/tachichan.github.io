@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Weijian Chen, a Ph.D. student in the [USTC](https://en.ustc.edu.cn/) [Lab for Data Science](http://data-science.ustc.edu.cn/), advised by Prof. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/) and Prof. [Yongdong Zhang](http://www.ustc-bj.cn/index.php/Vindex/product/417). My research interests include user profiling, recommender system, graph neural networks, and knowledge graph. As a researcher, I have been invited as a PC member/(sub)reviewer of conferences/journals such as KDD2022, WWW2022, TOIS, etc. 
+This is Weijian Chen, a Ph.D. student in the [USTC](https://en.ustc.edu.cn/) [Lab for Data Science](http://data-science.ustc.edu.cn/), advised by Prof. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/) and Prof. [Yongdong Zhang](http://www.ustc-bj.cn/index.php/Vindex/product/417). My research interests include user profiling, recommender system, knowledge graph, and graph neural networks. As a researcher, I have been served as a PC member/(sub)reviewer of conferences/journals such as KDD2022, WWW2022, TOIS, etc. 
 
 ***I will graduate in June 2023. If there are suitable research/job opportunities, please feel free to contact me(naure at mail.ustc.edu.cn)!***
 
