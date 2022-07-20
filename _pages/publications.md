@@ -17,6 +17,13 @@ author_profile: true
 ---
 <!-- <span style="color:red;">[NEW] </span> -->
 
+[Explainable Sparse Knowledge Graph Completion via High-order Graph Reasoning Network](https://arxiv.org/abs/2207.07503){:target="_blank"}   
+**Weijian Chen**, Yixin Cao, Fuli Feng, Xiangnan He, Yongdong Zhang  
+Under Review     
+[arXiv](https://arxiv.org/abs/2207.07503){:target="_blank"}&nbsp;&nbsp;  
+
+---
+
 [CatGCN: Graph Convolutional Networks with Categorical Node Features](https://ieeexplore.ieee.org/document/9647902){:target="_blank"}   
 **Weijian Chen**, Fuli Feng, Qifan Wang, Xiangnan He, Chonggang Song, Guohui Ling, Yongdong Zhang  
 ***TKDE***    *CCF-A Journal*  
