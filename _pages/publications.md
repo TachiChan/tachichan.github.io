@@ -20,7 +20,7 @@ author_profile: true
 [Explainable Sparse Knowledge Graph Completion via High-order Graph Reasoning Network](https://arxiv.org/abs/2207.07503){:target="_blank"}   
 **Weijian Chen**, Yixin Cao, Fuli Feng, Xiangnan He, Yongdong Zhang  
 Under Review     
-[arXiv](https://arxiv.org/abs/2207.07503){:target="_blank"}&nbsp;&nbsp;  
+[arXiv](https://arxiv.org/abs/2207.07503){:target="_blank"}&nbsp;&nbsp;  [Code](https://github.com/TachiChan/HoGRN){:target="_blank"}
 
 ---
 
