@@ -40,7 +40,7 @@ Shunyu Jiang, Fuli Feng, **Weijian Chen**, Xiang Li, Xiangnan He
 
 [Graph Convolution Machine for Context-aware Recommender System](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-021-0261-8){:target="_blank"}   
 Jiancan Wu , Xiangnan He, Xiang Wang, Qifan Wang, **Weijian Chen**, Jianxun Lian, Xing Xie, Yongdong Zhang  
-***FCS***    *CCF-C Journal*  
+***FCS***    *CCF-B Journal*  
 [arXiv](https://arxiv.org/abs/2001.11402){:target="_blank"}&nbsp;&nbsp;  [Code](https://github.com/wujcan/GCM){:target="_blank"}
 
 ---
