@@ -18,7 +18,7 @@ author_profile: true
 <!-- <span style="color:red;">[NEW] </span> -->
 
 [Reinforced Prompt Personalization for Recommendation with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3716320){:target="_blank"}   
-Wenyu Mao, Jiancan Wu, **Weijian Chen**, Chongming Gao, Xiang Wang, Xiangnan He
+Wenyu Mao, Jiancan Wu, **Weijian Chen**, Chongming Gao, Xiang Wang, Xiangnan He  
 ***TOIS***    *CCF-A Journal*  
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3716320){:target="_blank"}&nbsp;&nbsp;  [Code](https://github.com/maowenyu-11/RPP){:target="_blank"}
 
