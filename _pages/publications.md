@@ -18,8 +18,8 @@ author_profile: true
 <!-- <span style="color:red;">[NEW] </span> -->
 
 [Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning](https://dl.acm.org/doi/abs/10.1145/3716320){:target="_blank"}   
-Zijian Shao, Jiancan Wu*, **Weijian Chen***, Xiang Wang
-***ACL 2025***    *CCF-A Conference*  (Corresponding authors)
+Zijian Shao, Jiancan Wu\*, **Weijian Chen**\*, Xiang Wang  
+***ACL 2025***    *CCF-A Conference*  (Corresponding Authors)
 
 ---
 
